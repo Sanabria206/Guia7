@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu_Principal</string>
+    <string name="title">Mi aplicacion de negocios</string>
+    <string name="btnServicios">SERVICIOS</string>
+    <string name="btnPortafolio">PORTAFOLIO</string>
+    <string name="btnAcercaDe">ACERCA DE</string>
+    <string name="btnContactos">CONTACTOS</string>
+    <string name="btnRedesSociales">REDES SOCIALES</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_setting">Configuración</string>
+    <string name="err_undefined_event">Evento no definido</string>
+</resources>
